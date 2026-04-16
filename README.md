@@ -1,6 +1,7 @@
 # TFStory
 
-![funny sprite](a1.gif)
+<img src="a1.gif" alt="drawing" width="50"/> ![funny sprite 2](truck.gif)
+![funny sprite 3](./assets/pic/swiftgleam.png) ![funny sprite 4](./assets/pic/scatterchibi.png) ![funny sprite 5](./assets/pic/coldflow.png)
 
 Some code to create a graphic novel kinda game.
 
