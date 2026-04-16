@@ -1,4 +1,7 @@
 # TFStory
+
+![funny sprite](a1.gif)
+
 Some code to create a graphic novel kinda game.
 
 Probably, will not compile locally, because uses dependencies: 
